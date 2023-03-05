@@ -1,0 +1,51 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    
+}
+p{
+    font-family: 'Dancing Script', cursive;
+    font-size: x-large;
+}
+h1{
+    width: 20%;
+    margin: 0 auto;
+    font-family: 'Rampart One', cursive;
+}
+.first{
+    
+        background-color: #ECF2FF;
+        position: relative;
+        padding: 200px;  
+}
+.skill-logo{
+    height: 200px;
+    width: 200px;
+    border-radius: 60%;
+    border: 1px solid black;
+}
+.mypic{
+    
+    height: 200px;
+    border-radius: 100%;
+}
+.js{
+    border: 1px solid black;
+    height: 150px;
+    border-radius: 100%;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+   
+}
+.top-cloud{
+    position: absolute;
+    top: 50px;
+    right: 300px;
+}
+.link{
+    height: 40px;
+    margin: 50PX;
+}
